@@ -1,0 +1,5902 @@
+{
+  "name": "INMANTEC F",
+  "intents": [
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "hey"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello"
+        }
+      ]
+    },
+    {
+      "intent": "college_Location",
+      "examples": [
+        {
+          "text": "Can you tell me about physical locations ?"
+        },
+        {
+          "text": "Do you have an office ?"
+        },
+        {
+          "text": "Find college"
+        },
+        {
+          "text": "I need help with find a store"
+        },
+        {
+          "text": "Where is?"
+        },
+        {
+          "text": "Where are you located?"
+        },
+        {
+          "text": "Where are the store locations closest to davis city hall?"
+        },
+        {
+          "text": "Is there any shopping mall around me?"
+        },
+        {
+          "text": "Go to your college"
+        },
+        {
+          "text": "location"
+        },
+        {
+          "text": "Where is your college?"
+        },
+        {
+          "text": "Can you help me find locations?"
+        }
+      ]
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "Thanks, bye!"
+        }
+      ]
+    },
+    {
+      "intent": "Negative_Feedback",
+      "examples": [
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "you are bad"
+        },
+        {
+          "text": "its wromg"
+        }
+      ],
+      "description": "Negative Feedback"
+    },
+    {
+      "intent": "feedback",
+      "examples": [
+        {
+          "text": "send feedback"
+        }
+      ],
+      "description": "Take feedback from the user"
+    },
+    {
+      "intent": "Thanks",
+      "examples": [
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "thnk u"
+        },
+        {
+          "text": "thnku"
+        },
+        {
+          "text": "thnx"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "that's nice of you"
+        },
+        {
+          "text": "thank you very much"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "i appreciate it"
+        },
+        {
+          "text": "much appreciated"
+        },
+        {
+          "text": "many thanks"
+        }
+      ],
+      "description": "Thanks"
+    },
+    {
+      "intent": "contact_Us",
+      "examples": [
+        {
+          "text": "Can I get some more information?"
+        },
+        {
+          "text": "Who can I call?"
+        },
+        {
+          "text": "Which is the number of the main office here in los angeles?"
+        },
+        {
+          "text": "Where can I reach the company personally?"
+        },
+        {
+          "text": "What is you email?"
+        },
+        {
+          "text": "Can I contact the business by post?"
+        },
+        {
+          "text": "What is the phone number to call to order new line of service?"
+        },
+        {
+          "text": "What is the customer number?"
+        },
+        {
+          "text": "Need your phone number"
+        },
+        {
+          "text": "I would like to speak to customer service."
+        },
+        {
+          "text": "I want to know number to the store closest to me"
+        },
+        {
+          "text": "Is there a phone number to your shop at fort worth tx?"
+        },
+        {
+          "text": "I need someone to call me. can you please arrange that!?"
+        },
+        {
+          "text": "Can I text you a question?"
+        },
+        {
+          "text": "Tell me the number to your general department"
+        },
+        {
+          "text": "facebook profile"
+        },
+        {
+          "text": "linkedin profile"
+        },
+        {
+          "text": "twitter profile"
+        },
+        {
+          "text": "How can I contact your business?"
+        },
+        {
+          "text": "Hi can you let me have the telephone number of my local store please?"
+        },
+        {
+          "text": "Can you give me the number to the general manager?"
+        }
+      ]
+    },
+    {
+      "intent": "inmantec",
+      "examples": [
+        {
+          "text": "i want to know about the inmantec"
+        },
+        {
+          "text": "about the inmantec"
+        }
+      ],
+      "description": "about the inmantec"
+    },
+    {
+      "intent": "course",
+      "examples": [
+        {
+          "text": "course"
+        },
+        {
+          "text": "i have done my school from science so which course is best for me?"
+        }
+      ]
+    },
+    {
+      "intent": "admission",
+      "examples": [
+        {
+          "text": "registration"
+        },
+        {
+          "text": "i want an admission"
+        }
+      ],
+      "description": "College admission"
+    },
+    {
+      "intent": "payment",
+      "examples": [
+        {
+          "text": "money deposite"
+        },
+        {
+          "text": "cheque"
+        },
+        {
+          "text": "cash"
+        },
+        {
+          "text": "debit card"
+        },
+        {
+          "text": "pay my fee"
+        },
+        {
+          "text": "i want to pay my fee"
+        },
+        {
+          "text": "payment"
+        },
+        {
+          "text": "i want to pay"
+        },
+        {
+          "text": "pay"
+        }
+      ],
+      "description": "payment - paytm"
+    },
+    {
+      "intent": "employment_Inquiry",
+      "examples": [
+        {
+          "text": "Can I join you guys?"
+        },
+        {
+          "text": "Halp me I need work"
+        },
+        {
+          "text": "Are you hiring at the moment?"
+        },
+        {
+          "text": "Are there any job vacancies currently open at your company?"
+        },
+        {
+          "text": "What kind of jobs do you have?"
+        },
+        {
+          "text": "What positions do you have available?"
+        },
+        {
+          "text": "What's the process for job application?"
+        },
+        {
+          "text": "Where is your careers page?"
+        },
+        {
+          "text": "What employment opportunities are currently available?"
+        },
+        {
+          "text": "What is your jobs web site?"
+        },
+        {
+          "text": "How would I go about joining your company?"
+        },
+        {
+          "text": "What are the job openings available with the company?"
+        },
+        {
+          "text": "What are the jobs you are hiring for?"
+        },
+        {
+          "text": "What jobs are available that are hiring for now?"
+        },
+        {
+          "text": "I am looking for a job and would like to know if you have anything available.."
+        },
+        {
+          "text": "I need to find some work"
+        },
+        {
+          "text": "Is there any current employment opportunities?"
+        },
+        {
+          "text": "Search job"
+        },
+        {
+          "text": "Well I m asking what level of the marketing position your company is looking for"
+        },
+        {
+          "text": "Hire me please"
+        },
+        {
+          "text": "join inmantec"
+        }
+      ]
+    },
+    {
+      "intent": "fee",
+      "examples": [
+        {
+          "text": "Course fee"
+        },
+        {
+          "text": "fee"
+        },
+        {
+          "text": "fee structure"
+        }
+      ],
+      "description": "Fee structure of the course"
+    },
+    {
+      "intent": "Appointments",
+      "examples": [
+        {
+          "text": "When can I meet with one of your employees at your store?"
+        },
+        {
+          "text": "Want to change my visit"
+        },
+        {
+          "text": "Store appointment"
+        },
+        {
+          "text": "Set up an appt"
+        },
+        {
+          "text": "Make an appointment"
+        },
+        {
+          "text": "Is it possible to set a date?"
+        },
+        {
+          "text": "I would like to make an appointment to visit the nearest store to my location."
+        },
+        {
+          "text": "I would like to discuss my situation face to face"
+        },
+        {
+          "text": "I want to talk in person with someone about my case"
+        },
+        {
+          "text": "I want to cancel the appointment that I have with the store"
+        },
+        {
+          "text": "I prefer a face to face visit"
+        },
+        {
+          "text": "I need to reschedule"
+        },
+        {
+          "text": "I am due at a store tomorrow at 2pm and wish to change my appointment please?"
+        },
+        {
+          "text": "How can I change the schedule?"
+        },
+        {
+          "text": "Could you cancel the engagement I had tomorrow in my apartment?"
+        },
+        {
+          "text": "Could I speak to someone in the store next tuesday?"
+        },
+        {
+          "text": "Can you explain me this in my house?"
+        },
+        {
+          "text": "Can I book an in person session to learn how to use my new phone at the store near my house?"
+        },
+        {
+          "text": "Can someone support me at home?"
+        },
+        {
+          "text": "What time can I meet the staff?"
+        },
+        {
+          "text": "i will be there around 4 pm"
+        }
+      ],
+      "description": "Schedule or manage an in-store appointment."
+    },
+    {
+      "intent": "placement",
+      "examples": [
+        {
+          "text": "placemnt"
+        },
+        {
+          "text": "Highest / Average / Lowest package get by the student after getting a job form your college?"
+        },
+        {
+          "text": "Name of the companies come for the placement?"
+        },
+        {
+          "text": "job gurantee"
+        },
+        {
+          "text": "Placement facilities in your college?"
+        },
+        {
+          "text": "about the placement"
+        },
+        {
+          "text": "placement"
+        },
+        {
+          "text": "About companies packages"
+        }
+      ],
+      "description": "Placemet"
+    },
+    {
+      "intent": "Help",
+      "examples": [
+        {
+          "text": "can you assist me"
+        },
+        {
+          "text": "help me"
+        },
+        {
+          "text": "can you help"
+        },
+        {
+          "text": "i need assistance"
+        },
+        {
+          "text": "help me decide"
+        },
+        {
+          "text": "help"
+        }
+      ]
+    },
+    {
+      "intent": "cancel",
+      "examples": []
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "Am I talking to a robot?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        }
+      ]
+    },
+    {
+      "intent": "ok",
+      "examples": [
+        {
+          "text": "yup"
+        },
+        {
+          "text": "hmm"
+        },
+        {
+          "text": "yaap"
+        },
+        {
+          "text": "ok"
+        }
+      ],
+      "description": "small talk, reasponse"
+    },
+    {
+      "intent": "Bot_Control_Unsure",
+      "examples": [
+        {
+          "text": "I have no idea, actually"
+        },
+        {
+          "text": "I haven't got a clue"
+        },
+        {
+          "text": "I m not certain I get what you re saying"
+        },
+        {
+          "text": "I m not sure what will make you happy"
+        },
+        {
+          "text": "I m not yet convinced"
+        },
+        {
+          "text": "No clue"
+        },
+        {
+          "text": "No idea"
+        },
+        {
+          "text": "You got me"
+        },
+        {
+          "text": "I don t know what you need"
+        },
+        {
+          "text": "To be honest, I m really not sure"
+        },
+        {
+          "text": "I don t know what you want"
+        },
+        {
+          "text": "I have no idea what you are looking for"
+        }
+      ]
+    },
+    {
+      "intent": "Goodbye",
+      "examples": [
+        {
+          "text": "bye"
+        },
+        {
+          "text": "see ya"
+        },
+        {
+          "text": "nice to meet you"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "so long"
+        },
+        {
+          "text": "ttyl"
+        }
+      ],
+      "description": "GoodBye"
+    },
+    {
+      "intent": "scholarship",
+      "examples": [
+        {
+          "text": "financial support"
+        },
+        {
+          "text": "scholarship"
+        }
+      ],
+      "description": "scholarship"
+    },
+    {
+      "intent": "Positive_Feedback",
+      "examples": [
+        {
+          "text": "wonderful"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "you are good"
+        },
+        {
+          "text": "you are hot"
+        },
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "awesome"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "the best"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "virtual assistant"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "machine"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "genius!"
+        },
+        {
+          "text": "good"
+        },
+        {
+          "text": "great"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        }
+      ],
+      "description": "Positive Feedback"
+    },
+    {
+      "intent": "eligibility",
+      "examples": [
+        {
+          "text": "requirement of the course"
+        },
+        {
+          "text": "eligibility of the course"
+        }
+      ],
+      "description": "eligibility of the course"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "course",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "MBA",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "BCA",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "MCA",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "BBA",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "contact",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "mails",
+          "synonyms": []
+        },
+        {
+          "type": "patterns",
+          "value": "mail",
+          "patterns": [
+            "\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}\\b"
+          ]
+        },
+        {
+          "type": "patterns",
+          "value": "phone",
+          "patterns": [
+            "\\b[0-9]{10,10}\\b"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "category",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "OBC",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "SC",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "ST",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "General",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "email",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "email",
+          "patterns": [
+            "\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}\\b"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "mail",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "reply",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "pay_later",
+          "synonyms": [
+            "not now",
+            "pay later",
+            "later"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-person",
+      "values": []
+    },
+    {
+      "entity": "sys-number",
+      "values": []
+    },
+    {
+      "entity": "phones",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "Phone pattern",
+          "patterns": [
+            "(\\d{10})"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "year",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "second",
+          "synonyms": [
+            "second year",
+            "2nd year",
+            "2",
+            "Lateral"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "first",
+          "synonyms": [
+            "first year",
+            "1st year",
+            "1"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-time",
+      "values": []
+    },
+    {
+      "entity": "compliments",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "fun",
+          "synonyms": [
+            "comic",
+            "silly",
+            "joy",
+            "funny",
+            "entertaining",
+            "enjoyable"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "smart",
+          "synonyms": [
+            "nice",
+            "masterful",
+            "wonderful",
+            "thoughtful",
+            "shining",
+            "brighter",
+            "sensible",
+            "brilliant",
+            "clever",
+            "sharp",
+            "intelligent",
+            "bright"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cool",
+          "synonyms": [
+            "impressive",
+            "unbelievable",
+            "delightful",
+            "splendid",
+            "brilliant",
+            "incredible",
+            "magnificent",
+            "marvelous",
+            "superb",
+            "lovely",
+            "perfect",
+            "decent",
+            "fabulous",
+            "excellent",
+            "fantastic",
+            "amazing",
+            "wonderful",
+            "terrific",
+            "nice",
+            "awesome",
+            "very good",
+            "good",
+            "cool",
+            "interesting"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hot",
+          "synonyms": [
+            "hottie",
+            "sexy"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "genius",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "awesome",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "great",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "cute",
+          "synonyms": [
+            "handsome",
+            "lovely",
+            "beautiful",
+            "pretty",
+            "attractive"
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "api_version": {
+      "major_version": "v1",
+      "minor_version": "2018-07-10"
+    }
+  },
+  "description": "Chat Bot for Inmantec",
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Thanks"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_47_1539803242878",
+      "event_name": "filled",
+      "dialog_node": "handler_52_1539803258191",
+      "previous_sibling": "handler_48_1539803242878"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_47_1539803242878",
+      "context": {
+        "phone": "@phones"
+      },
+      "metadata": {},
+      "conditions": "@phones",
+      "event_name": "input",
+      "dialog_node": "handler_48_1539803242878",
+      "previous_sibling": "handler_49_1539803242878"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "I'll just need a phone to hold your appointment"
+      },
+      "parent": "slot_47_1539803242878",
+      "event_name": "focus",
+      "dialog_node": "handler_49_1539803242878"
+    },
+    {
+      "type": "standard",
+      "title": "BCA: Eligibility of the course",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "10+2 Pass from any discipline and from recognized Board with minimum 45% can also apply."
+              },
+              {
+                "text": "Admission starts from April every year. Classes commence from August. A Candidate who has appeared in board exams and result is awaited is eligible to apply.  A full-time degree course and course length would be of full 3 years."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_2_1535301614200",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1535301614200"
+      },
+      "conditions": "#eligibility",
+      "dialog_node": "node_17_1535435434273",
+      "previous_sibling": "node_4_1535376972689"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bachelor of Computer Applications is a three-year undergraduate degree course in the field of computer applications/ computer science.  After BCA the students can do further studies as MCA master in computer application. <br> <a href=\"http://www.inmantec.edu/bca/\" target='_blank'>Read More</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "most popular valuable questions",
+            "options": [
+              {
+                "label": "Placement",
+                "value": {
+                  "input": {
+                    "text": "placement"
+                  }
+                }
+              },
+              {
+                "label": "Fee Structure",
+                "value": {
+                  "input": {
+                    "text": "fee"
+                  }
+                }
+              },
+              {
+                "label": "Eligibility of the course",
+                "value": {
+                  "input": {
+                    "text": "eligibility"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1535301614200",
+      "metadata": {},
+      "conditions": "@course:BCA",
+      "dialog_node": "node_1_1536441110488",
+      "previous_sibling": "node_5_1536437175261"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "time": 500,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "title": "What else do you want to know about the course ?",
+            "options": [
+              {
+                "label": "Fee Structure",
+                "value": {
+                  "input": {
+                    "text": "fee"
+                  }
+                }
+              },
+              {
+                "label": "Placement",
+                "value": {
+                  "input": {
+                    "text": "placement"
+                  }
+                }
+              },
+              {
+                "label": "Eligibility of the course",
+                "value": {
+                  "input": {
+                    "text": "eligibility"
+                  }
+                }
+              },
+              {
+                "label": "Admission",
+                "value": {
+                  "input": {
+                    "text": "admission"
+                  }
+                }
+              }
+            ],
+            "preference": "button",
+            "description": "𝕊𝕦𝕘𝕘𝕖𝕤𝕥𝕚𝕠𝕟𝕤:",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1535301614200",
+      "metadata": {},
+      "conditions": "@course:BCA && #placement || #fee || #eligibility",
+      "dialog_node": "node_5_1536437175261",
+      "previous_sibling": "node_6_1535656222806"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "node_2_1535301614200",
+      "metadata": {},
+      "dialog_node": "node_1_1536501900658",
+      "previous_sibling": "node_1_1536441110488"
+    },
+    {
+      "type": "standard",
+      "title": "Registration is submitted",
+      "output": {
+        "generic": [
+          {
+            "time": 1000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Dear $person,"
+              },
+              {
+                "text": "Thank you for showing your interest in our college. I am delighted to share information about our college. INMANTEC will offer you a best platform or a great oppurtunity to achieve your goal and your great success. <br> Admissions Office at +91-xxx-xxx-xxxx"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "OOPS! Sorry $person <br> <font size=\"5\"> You have not deposited your fees right now, Please click on the below option to process the payment"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "pay now",
+                "value": {
+                  "input": {
+                    "text": "pay"
+                  }
+                }
+              },
+              {
+                "label": "pay later",
+                "value": {
+                  "input": {
+                    "text": "pay_later"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1535301614200",
+      "metadata": {},
+      "dialog_node": "node_6_1535656222806",
+      "previous_sibling": "node_22_1535439597777"
+    },
+    {
+      "type": "standard",
+      "title": "Fee Structure",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "FEE STRUCTURE (3 Years Degree Course)"
+              },
+              {
+                "text": "u can also visit here - http://www.inmantec.edu/bca/fee-structure/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "values": [
+              {
+                "text": "W̳I̳T̳H̳ ̳L̳A̳P̳T̳O̳P̳ <br> ₹56,000/- per year <br>Total  -  ₹1,68,000 <hr>W̳I̳T̳H̳ ̳F̳O̳R̳E̳I̳G̳N̳ ̳T̳O̳U̳R̳ ̳+̳ ̳L̳A̳P̳T̳O̳P̳ <br> ₹75,000 per year <br> Total - ₹2,25,000 <hr> W̳I̳T̳H̳O̳U̳T̳ ̳L̳A̳P̳T̳O̳P̳ <br> ₹51,000 per year <br> Total - ₹1,53,000"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_2_1535301614200",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1535301614200"
+      },
+      "conditions": "#fee",
+      "dialog_node": "node_4_1535376972689",
+      "previous_sibling": "node_1_1535369290885"
+    },
+    {
+      "type": "frame",
+      "title": "BCA: Admission",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b><u>Personal Details</u></b>"
+              },
+              {
+                "text": "Name: $person"
+              },
+              {
+                "text": "Date of Birth : $DOB"
+              },
+              {
+                "text": "Category:  $category"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 1500,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "<b><u>Contact details</u></b>"
+              },
+              {
+                "text": "Phone No : $phone"
+              },
+              {
+                "text": "Email Id : $email <hr>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 2000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "<b>Your registraion form is Submited</b><br> $date <br> <hr>"
+              },
+              {
+                "text": "Please check your given details (if something is wrong in your details please contact to college department +91-8800521099)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_2_1535301614200",
+      "context": {
+        "date": "<? now() ?>"
+      },
+      "metadata": {
+        "fallback": "leave",
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1535656222806"
+      },
+      "conditions": "#admission",
+      "dialog_node": "node_22_1535439597777",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_1_1536217335835",
+      "digress_out_slots": "not_allowed"
+    },
+    {
+      "type": "standard",
+      "title": "scholarship",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$person, SCHOLARSHIP SCHEME is depend on the SAMAJ KALYAN VIBHAG and and yes, we will also provide the scholarship on behalf of your performance.<br> please contact to the Registrar's office to know the update plans of scholarship.<br>Registrar's office (+91-0000000000)  "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1535301614200",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1535301614200"
+      },
+      "conditions": "#scholarship",
+      "dialog_node": "node_1_1536217335835",
+      "previous_sibling": "node_17_1535435434273"
+    },
+    {
+      "type": "standard",
+      "title": "BCA placement",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "BCA Placement <br>An Illustrative List of Placed Students From The Recent Batches. Please click here for list - <a href=\"http://www.inmantec.edu/placed-students-record/\" target='_blank'> Recent Batches placement </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1535301614200",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1535301614200"
+      },
+      "conditions": "#placement",
+      "dialog_node": "node_1_1535369290885",
+      "digress_out": "allow_all"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For Admission to 2nd year of MCA course (Lateral Entry), in any institution affiliated to AKTU, Lucknow, a candidate must have passed Bachelors degree course of minimum three years duration in BCA, B.Sc (Information Technology/ Computer Science) from any recognized Indian University; or its equivalent, recognized by A.I.U. securing minimum 50% (45% for SC/ST) marks in aggregate. The candidate must have passed Mathematics at 10+2 level or Graduation level."
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "node_54_1535798316541",
+      "metadata": {},
+      "conditions": "@year:second",
+      "dialog_node": "node_57_1535800011453",
+      "previous_sibling": "node_56_1535799992763"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For admission to first year of MCA in any institution affiliated to AKTU, Lucknow, a candidate must have passed Bachelors degree course of 03 Years minimum duration from any recognized Indian University; or its equivalent, recognized by A.I.U. securing minimum 50% (45% for SC/ST) marks in aggregate. Candidate must have passed Mathematics at 10+2 level or Graduation level."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_54_1535798316541",
+      "metadata": {},
+      "conditions": "@year:first",
+      "dialog_node": "node_56_1535799992763"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1535794859304",
+      "context": {
+        "email": "<? input.text.extract('[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+(\\.[a-zA-Z]+){1,}',0)?>"
+      },
+      "metadata": {},
+      "conditions": "@contact:mail",
+      "event_name": "input",
+      "dialog_node": "handler_9_1535794859304",
+      "previous_sibling": "handler_10_1535794859304"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Please give your e-mail id <br> abcd12@ xyz.com"
+      },
+      "parent": "slot_8_1535794859304",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_10_1535794859304"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Hey $person,</b> <br> You can pay to INMANTEC by <i>paytm service</i><br> <b>Note: please note the mention details to pay</b><br><b>1.</b> Select Your Institute's Location : <b>Uttar Pradesh - Ghaziabad</b> <br> <b>2.</b> Select Your Institute : <br> <b>INMANTEC</b>  <br><b>3.</b> Select Your Institute's Area : <b>INMANTEC Business School</b>"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "node_7_1535656807801",
+      "metadata": {},
+      "dialog_node": "node_2_1536228358529",
+      "previous_sibling": "node_1_1536228341949"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "OK $person, <br> if you want to take admission and you want to pay later, so please inform about it to the admission department now. Otherwise i will not responsible for your confirm admission. <br> Admission department- Contact Number <br> <+91-8800******"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "title": "click here if u want to pay now",
+            "options": [
+              {
+                "label": "Pay Now",
+                "value": {
+                  "input": {
+                    "text": "pay"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_7_1535656807801",
+      "metadata": {},
+      "conditions": "@reply:pay_later",
+      "dialog_node": "node_1_1536228341949"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1539799083762",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "variable": "confirm",
+      "dialog_node": "slot_39_1539803033010",
+      "previous_sibling": "slot_34_1539800172556"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1539799083762",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "variable": "$time",
+      "dialog_node": "slot_34_1539800172556",
+      "previous_sibling": "node_54_1539803417132"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "I see you need help making an appointment. Let me transfer you on your number (+91-$phone)"
+          ]
+        }
+      },
+      "parent": "node_1_1539799083762",
+      "conditions": "#help",
+      "event_name": "generic",
+      "dialog_node": "handler_7_1539965142173",
+      "previous_sibling": "handler_55_1539804378377"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Let me know how else I can help"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1539799083762",
+      "metadata": {},
+      "conditions": "$user_cancelled",
+      "dialog_node": "node_2_1539799231301",
+      "previous_sibling": "handler_7_1539965142173"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Let me check availability... we will confirm your appointment shortly @ +91-$phone"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "node_1_1539799083762",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_54_1539803417132",
+      "previous_sibling": "node_2_1539799231301"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1539799083762",
+      "metadata": {},
+      "variable": "$phone",
+      "dialog_node": "slot_47_1539803242878",
+      "previous_sibling": "slot_39_1539803033010"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "OK. Canceling your request..."
+          ]
+        }
+      },
+      "parent": "node_1_1539799083762",
+      "metadata": {},
+      "conditions": "#cancel",
+      "event_name": "generic",
+      "dialog_node": "handler_55_1539804378377",
+      "previous_sibling": "slot_3_1539799231334"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1539799083762",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "variable": "$date",
+      "dialog_node": "slot_3_1539799231334"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_2_1536416988195",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_22_1535439597777"
+      },
+      "conditions": "@course:BCA && #admission",
+      "dialog_node": "node_6_1536417151263",
+      "previous_sibling": "node_5_1536417121709"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_2_1536416988195",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_17_1535435434273"
+      },
+      "conditions": "@course:BCA && #eligibility",
+      "dialog_node": "node_5_1536417121709",
+      "previous_sibling": "node_4_1536417102060"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_2_1536416988195",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1535376972689"
+      },
+      "conditions": "@course:BCA && #fee",
+      "dialog_node": "node_4_1536417102060",
+      "previous_sibling": "node_3_1536417073906"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_2_1536416988195",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1535656807801"
+      },
+      "conditions": "@course:BCA && #payment",
+      "dialog_node": "node_2_1536432324947",
+      "previous_sibling": "node_7_1536417155805"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_2_1536416988195",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1536217335835"
+      },
+      "conditions": "@course:BCA && #scholarship",
+      "dialog_node": "node_7_1536417155805",
+      "previous_sibling": "node_6_1536417151263"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "time": 100,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_2_1536416988195",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1535301614200"
+      },
+      "conditions": "@course:BCA",
+      "dialog_node": "node_3_1536436603425",
+      "previous_sibling": "node_2_1536432324947"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_2_1536416988195",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1535369290885"
+      },
+      "conditions": "@course:BCA && #placement",
+      "dialog_node": "node_3_1536417073906"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "time": 1000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "I like making you laugh 😂"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1537550308553",
+      "metadata": {},
+      "conditions": "@compliments:fun",
+      "dialog_node": "node_27_1537693972552",
+      "previous_sibling": "node_1_1537692636459"
+    },
+    {
+      "type": "event_handler",
+      "parent": "node_1_1537550308553",
+      "disabled": true,
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_2_1537692676949",
+      "previous_sibling": "node_2_1537803464102"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1537550308553",
+      "metadata": {},
+      "variable": "$compliment",
+      "dialog_node": "slot_18_1537693250001",
+      "previous_sibling": "handler_2_1537692676949"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Not as Ghazibad ki garmi 😉🔥"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "node_1_1537550308553",
+      "metadata": {},
+      "conditions": "@compliments:hot",
+      "dialog_node": "node_1_1537715750795",
+      "previous_sibling": "node_27_1537693972552"
+    },
+    {
+      "type": "response_condition",
+      "output": {},
+      "parent": "node_1_1537550308553",
+      "metadata": {},
+      "conditions": "#Positive_Feedback",
+      "dialog_node": "node_2_1537803464102",
+      "previous_sibling": "node_1_1537715750795"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you $person <br> I'm blushing on the inside Flushed Face on Google 😊"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "node_1_1537550308553",
+      "metadata": {},
+      "conditions": "@compliments:cute",
+      "dialog_node": "node_1_1537692636459"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_38_1535796744337",
+      "event_name": "focus",
+      "dialog_node": "handler_40_1535796744337",
+      "previous_sibling": "handler_39_1535796744337"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_38_1535796744337",
+      "event_name": "input",
+      "dialog_node": "handler_39_1535796744337"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please write your DOB in a pattern of date (ex- YYYY-MM-DD)"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_60_1535800500631",
+      "event_name": "nomatch",
+      "dialog_node": "handler_64_1535800526888",
+      "previous_sibling": "handler_61_1535800500631"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_60_1535800500631",
+      "context": {
+        "date": "@sys-date"
+      },
+      "metadata": {},
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_61_1535800500631",
+      "previous_sibling": "handler_62_1535800500631"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Please enter your *Date of Birth* (YYYY-MM-DD)"
+      },
+      "parent": "slot_60_1535800500631",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_62_1535800500631"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Please enter your name"
+      },
+      "parent": "slot_17_1536058766187",
+      "event_name": "focus",
+      "dialog_node": "handler_19_1536058766187",
+      "previous_sibling": "handler_18_1536058766187"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_17_1536058766187",
+      "context": {
+        "person": "@sys-person"
+      },
+      "conditions": "@sys-person",
+      "event_name": "input",
+      "dialog_node": "handler_18_1536058766187"
+    },
+    {
+      "type": "standard",
+      "title": "BBA",
+      "output": {},
+      "parent": "node_1_1535301380797",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@course:BBA",
+      "dialog_node": "node_5_1535301941042",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_2_1535301614200"
+    },
+    {
+      "type": "standard",
+      "title": "MBA",
+      "output": {},
+      "parent": "node_1_1535301380797",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@course:MBA",
+      "dialog_node": "node_4_1535301933073",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_3_1535301737430"
+    },
+    {
+      "type": "standard",
+      "title": "MCA",
+      "output": {},
+      "parent": "node_1_1535301380797",
+      "metadata": {
+        "fallback": "leave",
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@course:MCA",
+      "dialog_node": "node_3_1535301737430",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_5_1535301941042"
+    },
+    {
+      "type": "standard",
+      "title": "BCA",
+      "output": {},
+      "parent": "node_1_1535301380797",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@course:BCA",
+      "dialog_node": "node_2_1535301614200",
+      "digress_out": "allow_all"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_1_1535461940489",
+      "context": {
+        "email": "<? input.text.extract('[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+(\\.[a-zA-Z]+){1,}',0)?>"
+      },
+      "metadata": {},
+      "conditions": "@email",
+      "event_name": "input",
+      "dialog_node": "handler_2_1535461940489",
+      "previous_sibling": "handler_3_1535461940489"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please write your e-mail id in a right pattern (ex- amittomar@inmantec.edu)"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_1_1535461940489",
+      "metadata": {},
+      "event_name": "nomatch",
+      "dialog_node": "handler_16_1535480330662",
+      "previous_sibling": "handler_15_1535480330662"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            ""
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_1_1535461940489",
+      "metadata": {},
+      "event_name": "filled",
+      "dialog_node": "handler_15_1535480330662",
+      "previous_sibling": "handler_2_1535461940489"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Please give your e-mail id (ex- abcd@domain.com)"
+      },
+      "parent": "slot_1_1535461940489",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_3_1535461940489"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Which year",
+            "options": [
+              {
+                "label": "First",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Second",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_52_1535798210453",
+      "disabled": true,
+      "metadata": {},
+      "dialog_node": "node_55_1535798510733",
+      "previous_sibling": "node_54_1535798316541"
+    },
+    {
+      "type": "standard",
+      "title": "which year 1st or literal entry",
+      "output": {},
+      "parent": "node_52_1535798210453",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1535301737430"
+      },
+      "conditions": "@year",
+      "dialog_node": "node_54_1535798316541",
+      "digress_out": "allow_all"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1537696097609",
+      "event_name": "focus",
+      "dialog_node": "handler_9_1537696097609",
+      "previous_sibling": "handler_8_1537696097609"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_7_1537696097609",
+      "event_name": "input",
+      "dialog_node": "handler_8_1537696097609"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Please enter your name"
+      },
+      "parent": "slot_1_1535484876917",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_3_1535484876917",
+      "previous_sibling": "handler_2_1535484876917"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_1_1535484876917",
+      "context": {
+        "person": "@sys-person"
+      },
+      "metadata": {},
+      "conditions": "@sys-person",
+      "event_name": "input",
+      "dialog_node": "handler_2_1535484876917"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1536058649734",
+      "context": {
+        "email": "<? input.text.extract('[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+(\\.[a-zA-Z]+){1,}',0)?>"
+      },
+      "metadata": {},
+      "conditions": "@contact:mail",
+      "event_name": "input",
+      "dialog_node": "handler_9_1536058649734",
+      "previous_sibling": "handler_10_1536058649734"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Please give your e-mail id <br> abcd12@ xyz.com"
+      },
+      "parent": "slot_8_1536058649734",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_10_1536058649734"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "yup, I'm $compliment 😍"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_18_1537693250001",
+      "event_name": "filled",
+      "dialog_node": "handler_21_1537693275522",
+      "previous_sibling": "handler_19_1537693250001"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_18_1537693250001",
+      "context": {
+        "compliment": "@compliments"
+      },
+      "metadata": {},
+      "conditions": "@compliments",
+      "event_name": "input",
+      "dialog_node": "handler_19_1537693250001",
+      "previous_sibling": "handler_20_1537693250001"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_18_1537693250001",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_20_1537693250001"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "We only accept appointments between 11am and 5pm"
+          ]
+        }
+      },
+      "parent": "slot_34_1539800172556",
+      "metadata": {},
+      "next_step": {
+        "behavior": "reprompt"
+      },
+      "conditions": "$time.after('17:30:30') || $time.before('10:59:59')",
+      "event_name": "filled",
+      "dialog_node": "handler_42_1539803053313",
+      "previous_sibling": "handler_35_1539800172556"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_34_1539800172556",
+      "context": {
+        "time": "@sys-time"
+      },
+      "metadata": {},
+      "conditions": "@sys-time",
+      "event_name": "input",
+      "dialog_node": "handler_35_1539800172556",
+      "previous_sibling": "handler_36_1539800172556"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "What time on <? $date.reformatDateTime(\"EEEEE\") ?> do you want to come in?"
+      },
+      "parent": "slot_34_1539800172556",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_36_1539800172556"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1537647531734",
+      "disabled": true,
+      "metadata": {},
+      "dialog_node": "node_10_1537647542795"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1536444816596",
+      "context": {
+        "remember": "<? input.text.extract('[a-zA-Z0-9._% +-:?@]{1,60}',0)?>"
+      },
+      "metadata": {},
+      "conditions": "#remember",
+      "event_name": "input",
+      "dialog_node": "handler_11_1536444816596",
+      "previous_sibling": "handler_12_1536444816596"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "what you want to remember"
+      },
+      "parent": "slot_10_1536444816596",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_12_1536444816596"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_75_1535800721170",
+      "context": {
+        "year": "@year"
+      },
+      "metadata": {},
+      "conditions": "@year",
+      "event_name": "input",
+      "dialog_node": "handler_76_1535800721170",
+      "previous_sibling": "handler_77_1535800721170"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "In which year do u want to take admission? <br> (1st year or Lateral entery)"
+      },
+      "parent": "slot_75_1535800721170",
+      "event_name": "focus",
+      "dialog_node": "handler_77_1535800721170"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "nope, I'm not <br>I don't always have the answer, but to be fair, I am pretty good for help to your query regarding the inmantec. <br> To report a problem, you can send feedback"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Send feedback",
+                "value": {
+                  "input": {
+                    "text": "Send feedback"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_10_1537696129580",
+      "metadata": {},
+      "conditions": "#Negative_Feedback",
+      "dialog_node": "node_1_1537716036224",
+      "previous_sibling": "node_1_1537550308553"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay would you tell me what went wrong and what you like? <br> Plz give your feedback by <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScOdmxQdoE08zxjy3KwxXrFyjhtvRfsSoJBwZNXj9L45Rp8mQ/viewform?c=0&w=1&usp=mail_form_link\" target='_blank'>  click here </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1537696129580",
+      "metadata": {},
+      "conditions": "#feedback",
+      "dialog_node": "node_48_1537712361966",
+      "previous_sibling": "node_1_1537716036224"
+    },
+    {
+      "type": "frame",
+      "title": "feedback positive",
+      "output": {},
+      "parent": "node_10_1537696129580",
+      "metadata": {
+        "fallback": "leave",
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Positive_Feedback",
+      "dialog_node": "node_1_1537550308553",
+      "digress_out": "allow_all",
+      "digress_out_slots": "not_allowed"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_9_1536444795381",
+      "metadata": {
+        "_customization": {}
+      },
+      "variable": "$remember",
+      "dialog_node": "slot_10_1536444816596"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "which course placement, do you want? please select  any one"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Graduation",
+            "options": [
+              {
+                "label": "BBA - placement",
+                "value": {
+                  "input": {
+                    "text": "BBA placement"
+                  }
+                }
+              },
+              {
+                "label": "BCA - placement",
+                "value": {
+                  "input": {
+                    "text": "BCA placement"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "title": "Post-Graduation",
+            "options": [
+              {
+                "label": "MBA - placement",
+                "value": {
+                  "input": {
+                    "text": "MBA placement"
+                  }
+                }
+              },
+              {
+                "label": "MCA - placement",
+                "value": {
+                  "input": {
+                    "text": "MCA placement"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_18_1535438103200",
+      "metadata": {},
+      "conditions": "#placement",
+      "dialog_node": "node_20_1535439138326",
+      "previous_sibling": "node_19_1535439061491"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$person, SCHOLARSHIP SCHEME is depend on the SAMAJ KALYAN VIBHAG and and yes, we will also provide the scholarship on behalf of your performance.<br> please contact to the Registrar's office to know the update plans of scholarship.<br>Registrar's office (+91-0000000000)"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "node_18_1535438103200",
+      "metadata": {},
+      "conditions": "#scholarship",
+      "dialog_node": "node_4_1536505214942",
+      "previous_sibling": "node_2_1536503643098"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please select one - <br> from your intrested course"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Graduation",
+            "options": [
+              {
+                "label": "BBA - admission",
+                "value": {
+                  "input": {
+                    "text": "BBA"
+                  }
+                }
+              },
+              {
+                "label": "BCA - admission",
+                "value": {
+                  "input": {
+                    "text": "BCA"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "title": "Post-Graduation",
+            "options": [
+              {
+                "label": "MBA - admission",
+                "value": {
+                  "input": {
+                    "text": "MBA"
+                  }
+                }
+              },
+              {
+                "label": "MCA - admission",
+                "value": {
+                  "input": {
+                    "text": "MCA"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_18_1535438103200",
+      "metadata": {},
+      "conditions": "#course",
+      "dialog_node": "node_7_1537643139931",
+      "previous_sibling": "node_4_1536505214942"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "In which course do u want to take admission? please select  any one"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Graduation",
+            "options": [
+              {
+                "label": "BBA - admission",
+                "value": {
+                  "input": {
+                    "text": "BBA admission"
+                  }
+                }
+              },
+              {
+                "label": "BCA - admission",
+                "value": {
+                  "input": {
+                    "text": "BCA admission"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "title": "Post-Graduation",
+            "options": [
+              {
+                "label": "MBA - admission",
+                "value": {
+                  "input": {
+                    "text": "MBA admission"
+                  }
+                }
+              },
+              {
+                "label": "MCA - admission",
+                "value": {
+                  "input": {
+                    "text": "MCA admission"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_18_1535438103200",
+      "metadata": {},
+      "conditions": "#admission",
+      "dialog_node": "node_21_1535439303412",
+      "previous_sibling": "node_20_1535439138326"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "which course eligibility, do you want? please select  any one"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Graduation",
+            "options": [
+              {
+                "label": "BBA - eligibility",
+                "value": {
+                  "input": {
+                    "text": "BBA eligibility"
+                  }
+                }
+              },
+              {
+                "label": "BCA - eligibility",
+                "value": {
+                  "input": {
+                    "text": "BCA eligibility"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "title": "Post-Graduation",
+            "options": [
+              {
+                "label": "MBA - eligibility",
+                "value": {
+                  "input": {
+                    "text": "MBA eligibility"
+                  }
+                }
+              },
+              {
+                "label": "MCA - eligibility",
+                "value": {
+                  "input": {
+                    "text": "MCA eligibility"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_18_1535438103200",
+      "metadata": {},
+      "conditions": "#eligibility",
+      "dialog_node": "node_2_1536503643098",
+      "previous_sibling": "node_21_1535439303412"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "which course Fee-Structure, do you want? please select any one"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Graduation",
+            "options": [
+              {
+                "label": "BBA - Fee Structure",
+                "value": {
+                  "input": {
+                    "text": "BBA fee"
+                  }
+                }
+              },
+              {
+                "label": "BCA - Fee Structure",
+                "value": {
+                  "input": {
+                    "text": "BCA fee"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "title": "Post-Graduation",
+            "options": [
+              {
+                "label": "MBA - Fee Structure",
+                "value": {
+                  "input": {
+                    "text": "MBA fee"
+                  }
+                }
+              },
+              {
+                "label": "MCA - Fee Structure",
+                "value": {
+                  "input": {
+                    "text": "MCA fee"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_18_1535438103200",
+      "metadata": {},
+      "conditions": "#fee",
+      "dialog_node": "node_19_1535439061491"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_65_1535800541159",
+      "context": {
+        "number": "@sys-person"
+      },
+      "metadata": {},
+      "conditions": "@sys-person",
+      "event_name": "input",
+      "dialog_node": "handler_66_1535800541159",
+      "previous_sibling": "handler_67_1535800541159"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Please enter your name"
+      },
+      "parent": "slot_65_1535800541159",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_67_1535800541159"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Enter your caste category<br>(ex-General, OBC)"
+      },
+      "parent": "slot_18_1535795040969",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_20_1535795040969",
+      "previous_sibling": "handler_19_1535795040969"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_18_1535795040969",
+      "context": {
+        "category": "@category"
+      },
+      "conditions": "@category",
+      "event_name": "input",
+      "dialog_node": "handler_19_1535795040969"
+    },
+    {
+      "type": "frame",
+      "title": "MCA: Admission",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b><u>Personal Details</u></b>"
+              },
+              {
+                "text": "Name: $person"
+              },
+              {
+                "text": "Date of Birth : $DOB"
+              },
+              {
+                "text": "Category:  $category"
+              },
+              {
+                "text": "Entry year: $year"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "values": [
+              {
+                "text": "<b><u>Contact details</u></b>"
+              },
+              {
+                "text": "Phone No : $phone"
+              },
+              {
+                "text": "Email Id : $email <hr>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "values": [
+              {
+                "text": "<b>Your registraion form is Submited</b><br> $date <br> INMANTEC never share your personal details to other third party ☺ <hr>"
+              },
+              {
+                "text": "Please check your given details (if something is wrong in your details please contact to college department +91-8800521099)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1535301737430",
+      "context": {
+        "date": "<? now() ?>"
+      },
+      "metadata": {
+        "fallback": "leave"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_80_1535801197627"
+      },
+      "conditions": "#admission",
+      "dialog_node": "node_37_1535796695406",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_6_1536506195774",
+      "digress_out_slots": "not_allowed"
+    },
+    {
+      "type": "standard",
+      "title": "Registrarion is submitted",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Dear $person,"
+              },
+              {
+                "text": "Thank you for showing your interest in our college. I am delighted to share information about our college. INMANTEC will offer you a best platform or a great oppurtunity to achieve your goal and your great success."
+              },
+              {
+                "text": "We understand the importance of finding the best college for you. Come discover why the INMANTEC is what you always hoped a college would be. Contact the Admissions Office at 000-000-0000, to make an appointment. I look forward to meeting you soon! With warmest regards"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "title": "OOPS! Sorry $person",
+            "options": [
+              {
+                "label": "pay now",
+                "value": {
+                  "input": {
+                    "text": "pay"
+                  }
+                }
+              }
+            ],
+            "description": "You have not deposited your fees right now, Please click on the below option to process the payment",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1535301737430",
+      "metadata": {},
+      "dialog_node": "node_80_1535801197627",
+      "previous_sibling": "node_37_1535796695406"
+    },
+    {
+      "type": "standard",
+      "title": "MCA: Eligibility of the course",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A normal MCA course consists of 3 years, whereas A Lateral entry course consists of two years, If you join MCA after then BSc you must do 3 year MCA course. But if you join MCA after BCA then you con join lateral system and completing this in 2 years."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Which year",
+            "options": [
+              {
+                "label": "First year (Fresher)",
+                "value": {
+                  "input": {
+                    "text": "first year"
+                  }
+                }
+              },
+              {
+                "label": "Second year(Lateral Entry)",
+                "value": {
+                  "input": {
+                    "text": "second year"
+                  }
+                }
+              }
+            ],
+            "description": "please select",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1535301737430",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#eligibility",
+      "dialog_node": "node_52_1535798210453",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_80_1535801197627"
+    },
+    {
+      "type": "standard",
+      "title": "MCA Placement",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "MCA Placement <br>An Illustrative List of Placed Students From The Recent Batches. Please click here for list - <a href=\"http://www.inmantec.edu/placed-students-record/\" target='_blank'> Recent Batches placement </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1535301737430",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1535301737430"
+      },
+      "conditions": "#placement",
+      "dialog_node": "node_4_1535396895709",
+      "previous_sibling": "node_28_1536074338450"
+    },
+    {
+      "type": "response_condition",
+      "output": {},
+      "parent": "node_3_1535301737430",
+      "metadata": {},
+      "dialog_node": "node_28_1536074338450",
+      "previous_sibling": "node_7_1535398574893"
+    },
+    {
+      "type": "standard",
+      "title": "MCA: Fee structure",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hey $person,"
+              },
+              {
+                "text": "u can also visit here - http://www.inmantec.edu/mca/fee-structure/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "values": [
+              {
+                "text": "𝕄ℂ𝔸 (𝕃𝕒𝕥𝕖𝕣𝕒𝕝)𝟚 𝕐𝕖𝕒𝕣 𝔽𝕦𝕝𝕝-𝕋𝕚𝕞𝕖 𝔻𝕖𝕘𝕣𝕖𝕖 ℙ𝕣𝕠𝕘𝕣𝕒𝕞"
+              },
+              {
+                "text": "₹73,000 per year"
+              },
+              {
+                "text": "Total    -     ₹1,46,000"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "values": [
+              {
+                "text": "𝟛 𝕐𝕖𝕒𝕣 𝔽𝕦𝕝𝕝-𝕋𝕚𝕞𝕖 𝔻𝕖𝕘𝕣𝕖𝕖 ℙ𝕣𝕠𝕘𝕣𝕒𝕞"
+              },
+              {
+                "text": "₹68,000 per year"
+              },
+              {
+                "text": "Total    -     ₹2,04,000"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1535301737430",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1535301737430"
+      },
+      "conditions": "#fee",
+      "dialog_node": "node_5_1535397563609",
+      "digress_out": "allow_all",
+      "previous_sibling": "slot_30_1536074384975"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "time": 500,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "title": "What else do you want to know about the course ?",
+            "options": [
+              {
+                "label": "Fee Structure",
+                "value": {
+                  "input": {
+                    "text": "fee"
+                  }
+                }
+              },
+              {
+                "label": "Placement",
+                "value": {
+                  "input": {
+                    "text": "placement"
+                  }
+                }
+              },
+              {
+                "label": "Eligibility of the course",
+                "value": {
+                  "input": {
+                    "text": "eligibility"
+                  }
+                }
+              },
+              {
+                "label": "Admission",
+                "value": {
+                  "input": {
+                    "text": "admission"
+                  }
+                }
+              }
+            ],
+            "preference": "button",
+            "description": "𝕊𝕦𝕘𝕘𝕖𝕤𝕥𝕚𝕠𝕟𝕤:",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1535301737430",
+      "metadata": {},
+      "conditions": "@course:MCA && #placement || #fee || #eligibility",
+      "dialog_node": "node_6_1535398558334",
+      "previous_sibling": "node_5_1535397563609"
+    },
+    {
+      "type": "standard",
+      "title": "Scholarship",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$person, SCHOLARSHIP SCHEME is depend on the SAMAJ KALYAN VIBHAG and and yes, we will also provide the scholarship on behalf of your performance.<br> please contact to the Registrar's office to know the update plans of scholarship.<br>Registrar's office (+91-0000000000)  "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1535301737430",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1535301737430"
+      },
+      "conditions": "#scholarship",
+      "dialog_node": "node_6_1536506195774",
+      "previous_sibling": "node_4_1535396895709"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Dear <b>$person</b> , INMANTEC has consistently been one of the best MCA colleges in Delhi NCR as it is a business school that thinks beyond a mere university degree. Our MCA program is designed to further students’ understanding of the computing technologies shaping our world today and to prepare students for sustaining a life-long contribution to a technology-related career. <br> <a href=\"http://www.inmantec.edu/mca/\" target='_blank'>Read More</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "most popular valuable questions",
+            "options": [
+              {
+                "label": "Placement",
+                "value": {
+                  "input": {
+                    "text": "placement"
+                  }
+                }
+              },
+              {
+                "label": "Fee Structure",
+                "value": {
+                  "input": {
+                    "text": "fee"
+                  }
+                }
+              },
+              {
+                "label": "Eligibility of the course",
+                "value": {
+                  "input": {
+                    "text": "eligibility"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1535301737430",
+      "metadata": {},
+      "conditions": "@course:MCA",
+      "dialog_node": "node_7_1535398574893",
+      "previous_sibling": "node_6_1535398558334"
+    },
+    {
+      "type": "slot",
+      "parent": "node_3_1535301737430",
+      "dialog_node": "slot_30_1536074384975"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_37_1535796695406",
+      "metadata": {},
+      "variable": "$email",
+      "dialog_node": "slot_41_1535796788048",
+      "previous_sibling": "slot_38_1535796744337"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_37_1535796695406",
+      "metadata": {},
+      "variable": "$number",
+      "dialog_node": "slot_65_1535800541159",
+      "previous_sibling": "slot_60_1535800500631"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_37_1535796695406",
+      "metadata": {},
+      "variable": "$category",
+      "dialog_node": "slot_70_1535800636503",
+      "previous_sibling": "slot_65_1535800541159"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_37_1535796695406",
+      "metadata": {},
+      "variable": "$year",
+      "dialog_node": "slot_75_1535800721170",
+      "previous_sibling": "slot_70_1535800636503"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_37_1535796695406",
+      "metadata": {},
+      "variable": "$date",
+      "dialog_node": "slot_60_1535800500631",
+      "previous_sibling": "slot_41_1535796788048"
+    },
+    {
+      "type": "slot",
+      "parent": "node_37_1535796695406",
+      "dialog_node": "slot_38_1535796744337"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_2_1536058483106",
+      "metadata": {},
+      "variable": "$DOB",
+      "dialog_node": "slot_11_1536058728315",
+      "previous_sibling": "slot_8_1536058649734"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_2_1536058483106",
+      "metadata": {},
+      "variable": "$category",
+      "dialog_node": "slot_14_1536058752317",
+      "previous_sibling": "slot_11_1536058728315"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_2_1536058483106",
+      "metadata": {},
+      "variable": "$email",
+      "dialog_node": "slot_8_1536058649734",
+      "previous_sibling": "slot_3_1536058589436"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_2_1536058483106",
+      "metadata": {},
+      "variable": "$person",
+      "dialog_node": "slot_17_1536058766187",
+      "previous_sibling": "slot_14_1536058752317"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_2_1536058483106",
+      "metadata": {},
+      "variable": "$phone",
+      "dialog_node": "slot_3_1536058589436"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "😍 That's a nice name!!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_1_1535476360213",
+      "metadata": {},
+      "event_name": "filled",
+      "dialog_node": "handler_11_1535477074664",
+      "previous_sibling": "handler_2_1535476360213"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "looks like you're trying to enter a wrong name.. plz try again",
+            "Using a lowercase letter in a human name is illegal",
+            "please write your full name like <font color=\"green\"><i>ex- Rohit Sharma</i> </font>",
+            "Please write your name in a format like this ex- Amit Tomar"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_1_1535476360213",
+      "metadata": {},
+      "event_name": "nomatch",
+      "dialog_node": "handler_9_1535476587303",
+      "previous_sibling": "handler_11_1535477074664"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_1_1535476360213",
+      "context": {
+        "person": "@sys-person"
+      },
+      "metadata": {},
+      "conditions": "@sys-person",
+      "event_name": "input",
+      "dialog_node": "handler_2_1535476360213",
+      "previous_sibling": "handler_3_1535476360213"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Please enter your name<br>  <font color=\"green\"><i>ex- Rohit Sharma</i> </font>"
+      },
+      "parent": "slot_1_1535476360213",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_3_1535476360213"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_17_1535481184185",
+      "context": {
+        "DOB": "@sys-date"
+      },
+      "metadata": {},
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_18_1535481184185",
+      "previous_sibling": "handler_19_1535481184185"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please write your DOB in a pattern of date (ex- YYYY-MM-DD)"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_17_1535481184185",
+      "metadata": {},
+      "event_name": "nomatch",
+      "dialog_node": "handler_24_1535481428007",
+      "previous_sibling": "handler_18_1535481184185"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Please enter your *Date of Birth* (YYYY-MM-DD)"
+      },
+      "parent": "slot_17_1535481184185",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_19_1535481184185"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_23_1535439631693",
+      "context": {
+        "phone": "<? input.text.extract('[0-9]{1,10}',0)?>"
+      },
+      "metadata": {},
+      "conditions": "@contact:phone",
+      "event_name": "input",
+      "dialog_node": "handler_24_1535439631693",
+      "previous_sibling": "handler_25_1535439631693"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "hmm. i did't detect phone number. Please enter your 10 digit phone number (ex- 0123456789)"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_23_1535439631693",
+      "metadata": {},
+      "event_name": "nomatch",
+      "dialog_node": "handler_14_1535480149483",
+      "previous_sibling": "handler_24_1535439631693"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Please Enter Your 10 digit Phone No."
+      },
+      "parent": "slot_23_1535439631693",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_25_1535439631693"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_11_1536058728315",
+      "context": {
+        "DOB": "@sys-date"
+      },
+      "metadata": {},
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_12_1536058728315",
+      "previous_sibling": "handler_13_1536058728315"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Please enter your *Date of Birth* <br> <b>(YYYY-MM-DD)</b>"
+      },
+      "parent": "slot_11_1536058728315",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_13_1536058728315"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello $person , Good afternoon, I'm Virtual Assistance"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "metadata": {},
+      "conditions": "now().after('12:00:00') && now().before('16:59:59')",
+      "dialog_node": "node_2_1536230943473",
+      "previous_sibling": "node_1_1536230865432"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "Welcome",
+      "metadata": {},
+      "variable": "$person",
+      "dialog_node": "slot_1_1535476360213",
+      "previous_sibling": "node_3_1536230951675"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello $person , Good evening"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "metadata": {},
+      "conditions": "now().after('17:00:00')",
+      "dialog_node": "node_3_1536230951675",
+      "previous_sibling": "node_2_1536230943473"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello $person , Good morning"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "metadata": {},
+      "conditions": "now().after('04:00:00') && now().before('11:59:59')",
+      "dialog_node": "node_1_1536230865432"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<i> NH 24, Near, Dasna Marg, Adhyatmik Nagar, Udyog Kunj, Ghaziabad, Uttar Pradesh 201009 </i> <br> You can find me on <a href=\"https://goo.gl/maps/RjRK7N68wPE2\" target='_blank'> Google Map (click here) </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1537642080270",
+      "metadata": {},
+      "conditions": "#college_Location",
+      "dialog_node": "node_6_1537642158243",
+      "previous_sibling": "node_5_1537642151053"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Are you searching for job? <br> INMANTEC has built a reputation in higher studies in areas like law, education, management and IT. We prepare you and help you to get your dream job."
+              },
+              {
+                "text": "An Illustrative List of Placed Students From The Recent Batches. Please click here for list - <a href='http://www.inmantec.edu/placed-students-record/' target='_blank'> Recent Batches placement </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1537642080270",
+      "metadata": {},
+      "conditions": "#employment_Inquiry",
+      "dialog_node": "node_8_1537644315065",
+      "previous_sibling": "node_6_1537642158243"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "INMANTEC has completed 21 years of its purposeful existence and is one of the leading business schools of the country. Over the years, INMANTEC has built a reputation in higher studies in areas like law, education, management and IT. The school integrates knowledge, research, industry experience interlaced with international exposure to offer comprehensive programs.<br> <a href=\"http://www.inmantec.edu/about-inmantec/\" target='_blank'>Read More</a> "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1537642080270",
+      "metadata": {},
+      "conditions": "#inmantec",
+      "dialog_node": "node_5_1537642151053"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_22_1535439597777",
+      "metadata": {},
+      "variable": "$DOB",
+      "dialog_node": "slot_17_1535481184185",
+      "previous_sibling": "slot_1_1535461940489"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_22_1535439597777",
+      "metadata": {},
+      "variable": "$category",
+      "dialog_node": "slot_1_1535533758501",
+      "previous_sibling": "slot_1_1535484876917"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_22_1535439597777",
+      "metadata": {},
+      "variable": "$phone",
+      "dialog_node": "slot_23_1535439631693",
+      "previous_sibling": "node_1_1535655681781"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_22_1535439597777",
+      "metadata": {},
+      "variable": "$person",
+      "dialog_node": "slot_1_1535484876917",
+      "previous_sibling": "slot_17_1535481184185"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_22_1535439597777",
+      "metadata": {},
+      "variable": "$email",
+      "dialog_node": "slot_1_1535461940489",
+      "previous_sibling": "slot_23_1535439631693"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b><u>Personal Details</u></b>"
+              },
+              {
+                "text": "Name: $person"
+              },
+              {
+                "text": "Date of Birth : $DOB"
+              },
+              {
+                "text": "Category:  $category"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "values": [
+              {
+                "text": "<b><u>Contact details</u></b>"
+              },
+              {
+                "text": "Phone No : $phone"
+              },
+              {
+                "text": "Email Id : $email"
+              },
+              {
+                "text": "submit_date $submit_date"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "values": [
+              {
+                "text": "Your input details is Submited"
+              },
+              {
+                "text": "Please check you given details (if something is wrong in your details please contact to college department +91-8800521099)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_22_1535439597777",
+      "disabled": true,
+      "metadata": {},
+      "dialog_node": "node_1_1535655681781"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1536417260428",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1535794759975"
+      },
+      "conditions": "@course:BBA && #admission",
+      "dialog_node": "node_15_1536417464216",
+      "previous_sibling": "node_14_1536417442082"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1536417260428",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1535301941042"
+      },
+      "conditions": "@course:BBA",
+      "dialog_node": "node_7_1536506267432",
+      "previous_sibling": "node_16_1536417472419"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$person, SCHOLARSHIP SCHEME is depend on the SAMAJ KALYAN VIBHAG and and yes, we will also provide the scholarship on behalf of your performance.<br> please contact to the Registrar's office to know the update plans of scholarship.<br>Registrar's office (+91-0000000000)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1536417260428",
+      "metadata": {},
+      "conditions": "#scholarship",
+      "dialog_node": "node_16_1536417472419",
+      "previous_sibling": "node_15_1536417464216"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1536417260428",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1535791500957"
+      },
+      "conditions": "@course:BBA && #eligibility",
+      "dialog_node": "node_14_1536417442082",
+      "previous_sibling": "node_13_1536417430069"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1536417260428",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_13_1535399045809"
+      },
+      "conditions": "@course:BBA && #fee",
+      "dialog_node": "node_13_1536417430069",
+      "previous_sibling": "node_12_1536417337846"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1536417260428",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_12_1535399037436"
+      },
+      "conditions": "@course:BBA && #placement",
+      "dialog_node": "node_12_1536417337846"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1536058589436",
+      "context": {
+        "phone": "<? input.text.extract('[0-9]{1,10}',0)?>"
+      },
+      "metadata": {},
+      "conditions": "@contact:phone",
+      "event_name": "input",
+      "dialog_node": "handler_4_1536058589437",
+      "previous_sibling": "handler_5_1536058589437"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "plz enter your number"
+      },
+      "parent": "slot_3_1536058589436",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1536058589437"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1535476412911",
+      "context": {
+        "phone": "<? input.text.extract('[0-9]{1,10}',0)?>"
+      },
+      "metadata": {},
+      "conditions": "@contact:phone",
+      "event_name": "input",
+      "dialog_node": "handler_5_1535476412911",
+      "previous_sibling": "handler_6_1535476412911"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "$person, It's illegal format for me, please enter your 10 digit mobile number.",
+            "Sorry $person, i can understand only your 10 digit mobile number."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_4_1535476412911",
+      "event_name": "nomatch",
+      "dialog_node": "handler_5_1536231183195",
+      "previous_sibling": "handler_4_1536231183194"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Thanx $person <br> I'll remember that"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_4_1535476412911",
+      "event_name": "filled",
+      "dialog_node": "handler_4_1536231183194",
+      "previous_sibling": "handler_5_1535476412911"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "i want to know your contact number"
+      },
+      "parent": "slot_4_1535476412911",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_6_1535476412911"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_70_1535800636503",
+      "context": {
+        "category": "@category"
+      },
+      "metadata": {},
+      "conditions": "@category",
+      "event_name": "input",
+      "dialog_node": "handler_71_1535800636503",
+      "previous_sibling": "handler_72_1535800636503"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Enter your caste category<br>(ex-General, OBC)"
+      },
+      "parent": "slot_70_1535800636503",
+      "event_name": "focus",
+      "dialog_node": "handler_72_1535800636503"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_2_1537641992856",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#inmantec || #college_Location || #employment_Inquiry",
+      "dialog_node": "node_4_1537642080270",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_3_1537642027414"
+    },
+    {
+      "type": "standard",
+      "title": "contact Us",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "General inquiries may be directed to  <br> <u> info@ inmantec.edu </u>"
+              },
+              {
+                "text": "and you call us 9205256763 , 9818579220 <br> You can also find us on  <a href=\"https://www.facebook.com/inmantec\"  target='_blank”'> <u> Facebook </u> </a>    &nbsp; <a href=\"https://twitter.com/inmantec\"  target='_blank”'> <u> Twitter </u> </a> &nbsp; <a href=\"https://www.linkedin.com/company/inmantec\"  target='_blank”'> <u> Linkedin </u> </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_2_1537641992856",
+      "metadata": {},
+      "conditions": "#contact_Us",
+      "dialog_node": "node_3_1537642027414"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Sorry... let's try again"
+          ]
+        }
+      },
+      "parent": "slot_39_1539803033010",
+      "context": {
+        "date": null,
+        "time": null,
+        "confirm": null
+      },
+      "metadata": {},
+      "conditions": "@reply:no",
+      "event_name": "filled",
+      "dialog_node": "handler_46_1539803195374",
+      "previous_sibling": "handler_44_1539803147669"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Perfect!"
+          ]
+        }
+      },
+      "parent": "slot_39_1539803033010",
+      "metadata": {},
+      "conditions": "@reply:yes",
+      "event_name": "filled",
+      "dialog_node": "handler_44_1539803147669",
+      "previous_sibling": "handler_40_1539803033010"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_39_1539803033010",
+      "context": {
+        "confirm": "@reply && slot_in_focus"
+      },
+      "metadata": {},
+      "conditions": "@reply && slot_in_focus",
+      "event_name": "input",
+      "dialog_node": "handler_40_1539803033010",
+      "previous_sibling": "handler_41_1539803033010"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Let me confirm: You want an appointment for <? $date.reformatDateTime(\"EEEEE\") ?> at <? $time.reformatDateTime(\"h a\") ?>. Is this correct?"
+      },
+      "parent": "slot_39_1539803033010",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_41_1539803033010"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_30_1536074384975",
+      "event_name": "focus",
+      "dialog_node": "handler_32_1536074384975",
+      "previous_sibling": "handler_31_1536074384975"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_30_1536074384975",
+      "event_name": "input",
+      "dialog_node": "handler_31_1536074384975"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1536421338161",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1535398858435"
+      },
+      "conditions": "@course:MBA && #fee",
+      "dialog_node": "node_5_1536443051863",
+      "previous_sibling": "node_4_1536443047687"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1536421338161",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_26_1536059602093"
+      },
+      "conditions": "@course:MBA && #eligibility",
+      "dialog_node": "node_3_1536443035373",
+      "previous_sibling": "node_2_1536442958462"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1536421338161",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1535301933073"
+      },
+      "conditions": "@course:MBA",
+      "dialog_node": "node_7_1536443078147",
+      "previous_sibling": "node_6_1536443069108"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1536421338161",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1535656807801"
+      },
+      "conditions": "@course:MBA && #payment",
+      "dialog_node": "node_4_1536443047687",
+      "previous_sibling": "node_3_1536443035373"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1536421338161",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1535398739566"
+      },
+      "conditions": "@course:MBA && #placement",
+      "dialog_node": "node_6_1536443069108",
+      "previous_sibling": "node_5_1536443051863"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1536421338161",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1536058483106"
+      },
+      "conditions": "@course:MBA && #admission",
+      "dialog_node": "node_2_1536442958462"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "BCA Placement <br>An Illustrative List of Placed Students From The Recent Batches. Please click here for list - <a href=\"http://www.inmantec.edu/placed-students-record/\" target='_blank'> Recent Batches placement </a>"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "node_1_1535369290885",
+      "disabled": true,
+      "metadata": {},
+      "dialog_node": "node_8_1536437765145"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1535794855304",
+      "context": {
+        "phone": "<? input.text.extract('[0-9]{1,10}',0)?>"
+      },
+      "metadata": {},
+      "conditions": "@contact:phone",
+      "event_name": "input",
+      "dialog_node": "handler_6_1535794855304",
+      "previous_sibling": "handler_7_1535794855304"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "plz enter your number"
+      },
+      "parent": "slot_5_1535794855304",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_7_1535794855304"
+    },
+    {
+      "type": "standard",
+      "title": "BBA",
+      "output": {},
+      "parent": "node_1_1536416557224",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@course:BBA",
+      "dialog_node": "node_9_1536417260428",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_2_1536416988195"
+    },
+    {
+      "type": "standard",
+      "title": "MCA",
+      "output": {},
+      "parent": "node_1_1536416557224",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@course:MCA",
+      "dialog_node": "node_8_1536417252495",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_9_1536417260428"
+    },
+    {
+      "type": "standard",
+      "title": "MBA",
+      "output": {},
+      "parent": "node_1_1536416557224",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@course:MBA",
+      "dialog_node": "node_1_1536421338161",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_8_1536417252495"
+    },
+    {
+      "type": "standard",
+      "title": "BCA",
+      "output": {},
+      "parent": "node_1_1536416557224",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@course:BCA",
+      "dialog_node": "node_2_1536416988195",
+      "digress_out": "allow_all"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "hmm"
+              },
+              {
+                "text": "yaap"
+              },
+              {
+                "text": "Just let me know if you need anything else"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1536514523675",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#ok",
+      "dialog_node": "node_9_1537647531734",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_11_1536519088358"
+    },
+    {
+      "type": "standard",
+      "title": "thanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You're welcome. Just let me know if you need anything else"
+              },
+              {
+                "text": "No problem. Just let me know if you need anything else"
+              },
+              {
+                "text": "My pleasure. Just let me know if you need anything else"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1536514523675",
+      "metadata": {},
+      "conditions": "#Thanks",
+      "dialog_node": "node_11_1536519088358",
+      "previous_sibling": "node_12_1536520993258"
+    },
+    {
+      "type": "standard",
+      "title": "Goodbyes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay! Speak to you soon"
+              },
+              {
+                "text": "See ya"
+              },
+              {
+                "text": "Good bye"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "For more general inquiries may be directed to  <br> <u> info@ inmantec.edu </u>"
+              },
+              {
+                "text": "and you call us 9205256763 , 9818579220 <br> You can also find us on <font color=\"red\">  <a href=\"https://www.facebook.com/inmantec\"  target='_blank”'> <u> Facebook </u> </a>    &nbsp; <a href=\"https://twitter.com/inmantec\"  target='_blank”'> <u> Twitter </u> </a> &nbsp; <a href=\"https://www.linkedin.com/company/inmantec\"  target='_blank”'> <u> Linkedin </u> </a> </font>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_9_1536514523675",
+      "metadata": {},
+      "conditions": "#Goodbye",
+      "dialog_node": "node_12_1536520993258"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1536417252495",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1535301737430"
+      },
+      "conditions": "@course:MCA",
+      "dialog_node": "node_23_1536419083763",
+      "previous_sibling": "node_22_1536418991679"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1536417252495",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1535396895709"
+      },
+      "conditions": "@course:MCA && #placement",
+      "dialog_node": "node_22_1536418991679",
+      "previous_sibling": "node_21_1536418989886"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1536417252495",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_52_1535798210453"
+      },
+      "conditions": "@course:MCA && #eligibility",
+      "dialog_node": "node_19_1536418986089",
+      "previous_sibling": "node_18_1536418980594"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1536417252495",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1535656807801"
+      },
+      "conditions": "@course:MCA && #payment",
+      "dialog_node": "node_20_1536418988214",
+      "previous_sibling": "node_19_1536418986089"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1536417252495",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1535397563609"
+      },
+      "conditions": "@course:MCA && #fee",
+      "dialog_node": "node_21_1536418989886",
+      "previous_sibling": "node_20_1536418988214"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_8_1536417252495",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_37_1535796695406"
+      },
+      "conditions": "@course:MCA && #admission",
+      "dialog_node": "node_18_1536418980594"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_3_1535396429208",
+      "metadata": {},
+      "variable": "$phone",
+      "dialog_node": "slot_4_1535476412911"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_13_1535794991093",
+      "context": {
+        "DOB": "@sys-date"
+      },
+      "metadata": {},
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_14_1535794991093",
+      "previous_sibling": "handler_15_1535794991093"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Please enter your *Date of Birth* <br> <b>(YYYY-MM-DD)</b>"
+      },
+      "parent": "slot_13_1535794991093",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_15_1535794991093"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Enter your caste category<br>(ex-General, OBC)"
+      },
+      "parent": "slot_1_1535533758501",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_3_1535533758501",
+      "previous_sibling": "handler_2_1535533758501"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_1_1535533758501",
+      "context": {
+        "category": "@category"
+      },
+      "metadata": {},
+      "conditions": "@category",
+      "event_name": "input",
+      "dialog_node": "handler_2_1535533758501"
+    },
+    {
+      "type": "frame",
+      "title": "MBA: Admission",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b><u>Personal Details</u></b>"
+              },
+              {
+                "text": "Name: $person"
+              },
+              {
+                "text": "Date of Birth : $DOB"
+              },
+              {
+                "text": "Category:  $category"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "values": [
+              {
+                "text": "<b><u>Contact details</u></b>"
+              },
+              {
+                "text": "Phone No : $phone"
+              },
+              {
+                "text": "Email Id : $email <hr>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "values": [
+              {
+                "text": "<b>Your registraion form is Submited</b><br> $date <br> INMANTEC never share your personal details to other third party ☺ <hr>"
+              },
+              {
+                "text": "Please check your given details (if something is wrong in your details please contact to college department +91-8800521099)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1535301933073",
+      "context": {
+        "date": "<? now() ?>"
+      },
+      "metadata": {
+        "fallback": "leave"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_27_1536061280892"
+      },
+      "conditions": "#admission",
+      "dialog_node": "node_2_1536058483106",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_9_1535398858435",
+      "digress_out_slots": "not_allowed"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It is a 2 year full-time university program approved by AKTU. Our MBA program aspires to provide students with quantitative as well as qualitative knowledge to analyze business problems and create opportunities to address them. Our mission is to develop entrepreneurial and responsible global leaders and to advance business knowledge. <br> <a href=\"http://www.inmantec.edu/mba/\" target='_blank'>Read More</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "most popular valuable questions",
+            "options": [
+              {
+                "label": "Placement",
+                "value": {
+                  "input": {
+                    "text": "placement"
+                  }
+                }
+              },
+              {
+                "label": "Fee Structure",
+                "value": {
+                  "input": {
+                    "text": "fee"
+                  }
+                }
+              },
+              {
+                "label": "Eligibility of the course",
+                "value": {
+                  "input": {
+                    "text": "eligibility"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_4_1535301933073",
+      "metadata": {},
+      "conditions": "@course:MBA",
+      "dialog_node": "node_11_1535398940869",
+      "previous_sibling": "node_10_1535398936537"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "time": 500,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "title": "What else do you want to know about the course ?",
+            "options": [
+              {
+                "label": "Fee Structure",
+                "value": {
+                  "input": {
+                    "text": "fee"
+                  }
+                }
+              },
+              {
+                "label": "Placement",
+                "value": {
+                  "input": {
+                    "text": "placement"
+                  }
+                }
+              },
+              {
+                "label": "Eligibility of the course",
+                "value": {
+                  "input": {
+                    "text": "eligibility"
+                  }
+                }
+              },
+              {
+                "label": "Admission",
+                "value": {
+                  "input": {
+                    "text": "admission"
+                  }
+                }
+              }
+            ],
+            "preference": "button",
+            "description": "𝕊𝕦𝕘𝕘𝕖𝕤𝕥𝕚𝕠𝕟𝕤:",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_4_1535301933073",
+      "metadata": {},
+      "conditions": "@course:MBA && #placement || #fee || #eligibility",
+      "dialog_node": "node_10_1535398936537",
+      "previous_sibling": "node_27_1536061280892"
+    },
+    {
+      "type": "standard",
+      "title": "MBA: Placement",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, MBA placement"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1535301933073",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1535301933073"
+      },
+      "conditions": "#placement",
+      "dialog_node": "node_8_1535398739566",
+      "previous_sibling": "node_26_1536059602093"
+    },
+    {
+      "type": "standard",
+      "title": "Scholarship",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$person, SCHOLARSHIP SCHEME is depend on the SAMAJ KALYAN VIBHAG and and yes, we will also provide the scholarship on behalf of your performance.<br> please contact to the Registrar's office to know the update plans of scholarship.<br>Registrar's office (+91-0000000000)  "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1535301933073",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1535301933073"
+      },
+      "conditions": "#scholarship",
+      "dialog_node": "node_5_1536506144910",
+      "previous_sibling": "node_8_1535398739566"
+    },
+    {
+      "type": "standard",
+      "title": "Registration is submitted",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Dear $person,"
+              },
+              {
+                "text": "Thank you for showing your interest in our college. I am delighted to share information about our college. INMANTEC will offer you a best platform or a great oppurtunity to achieve your goal and your great success."
+              },
+              {
+                "text": "We understand the importance of finding the best college for you. Come discover why the INMANTEC is what you always hoped a college would be. Contact the Admissions Office at 000-000-0000, to make an appointment. I look forward to meeting you soon! With warmest regards"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "title": "OOPS! Sorry $person",
+            "options": [
+              {
+                "label": "pay now",
+                "value": {
+                  "input": {
+                    "text": "pay"
+                  }
+                }
+              }
+            ],
+            "description": "You have not deposited your fees right now, Please click on the below option to process the payment",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_4_1535301933073",
+      "metadata": {},
+      "dialog_node": "node_27_1536061280892",
+      "previous_sibling": "node_2_1536058483106"
+    },
+    {
+      "type": "response_condition",
+      "output": {},
+      "parent": "node_4_1535301933073",
+      "metadata": {},
+      "dialog_node": "node_8_1536443372360",
+      "previous_sibling": "node_11_1535398940869"
+    },
+    {
+      "type": "standard",
+      "title": "MBA: Fee structure",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "FEE structure of MBA"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1535301933073",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1535301933073"
+      },
+      "conditions": "#fee",
+      "dialog_node": "node_9_1535398858435",
+      "previous_sibling": "node_5_1536506144910"
+    },
+    {
+      "type": "standard",
+      "title": "MBA: eligibility",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b>Eligibility of the course </b> <br> <b>+</b> A graduate from any discipline with min 50%. Final year students awaiting results may also apply.<hr> <b>+</b> A minimum score of 500 in MAT or equivalent score in any other Entrance Exam, e.g. JCCAT/XAT/RMAT/CAT, etc. <hr> <b>+</b> Students, whose final graduation result is not yet declared, will be given provisional admission and they will have to submit the proof of passing Graduation examinations within one month after admission. <hr>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1535301933073",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1535301933073"
+      },
+      "conditions": "#eligibility",
+      "dialog_node": "node_26_1536059602093"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_4_1535794759975",
+      "metadata": {},
+      "variable": "$DOB",
+      "dialog_node": "slot_13_1535794991093",
+      "previous_sibling": "slot_8_1535794859304"
+    },
+    {
+      "type": "slot",
+      "parent": "node_4_1535794759975",
+      "variable": "$person",
+      "dialog_node": "slot_23_1535795430003",
+      "previous_sibling": "slot_18_1535795040969"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_4_1535794759975",
+      "metadata": {},
+      "variable": "$email",
+      "dialog_node": "slot_8_1535794859304",
+      "previous_sibling": "slot_5_1535794855304"
+    },
+    {
+      "type": "slot",
+      "parent": "node_4_1535794759975",
+      "variable": "$category",
+      "dialog_node": "slot_18_1535795040969",
+      "previous_sibling": "slot_13_1535794991093"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_4_1535794759975",
+      "metadata": {},
+      "variable": "$phone",
+      "dialog_node": "slot_5_1535794855304"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "$person, you entered $date, today is <? today() ?>  .... <br> Looks like you're trying to make a reservation in the past. Try again."
+          ]
+        }
+      },
+      "parent": "slot_3_1539799231334",
+      "metadata": {},
+      "next_step": {
+        "behavior": "reprompt"
+      },
+      "conditions": "$date.before(now())",
+      "event_name": "filled",
+      "dialog_node": "handler_13_1539799433104",
+      "previous_sibling": "handler_4_1539799231334"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1539799231334",
+      "context": {
+        "date": "@sys-date"
+      },
+      "metadata": {},
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_4_1539799231334",
+      "previous_sibling": "handler_5_1539799231334"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "What day would you like to come in? <br> (yyyy-mm-dd)"
+      },
+      "parent": "slot_3_1539799231334",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_5_1539799231334"
+    },
+    {
+      "type": "standard",
+      "title": "BBA: Placement",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes BBA placement"
+              },
+              {
+                "text": "BBA Graduate can get jobs in below given Industry as Management Trainee. They can opt for careers in banking, finance, trade, financial services and accountancy firms. They can also go for sales jobs in retailing, insurance or media groups. Entrepreneurship could be followed as in form of start-ups and careers are also possible in small and large organisations"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_5_1535301941042",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1535301941042"
+      },
+      "conditions": "#placement",
+      "dialog_node": "node_12_1535399037436",
+      "previous_sibling": "node_1_1536441819295"
+    },
+    {
+      "type": "standard",
+      "title": "Scholarship",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$person, SCHOLARSHIP SCHEME is depend on the SAMAJ KALYAN VIBHAG and and yes, we will also provide the scholarship on behalf of your performance.<br> please contact to the Registrar's office to know the update plans of scholarship.<br>Registrar's office (+91-0000000000)  "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1535301941042",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1535301941042"
+      },
+      "conditions": "#scholarship",
+      "dialog_node": "node_2_1536220314441",
+      "previous_sibling": "node_3_1535791500957"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "time": 500,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "title": "How can i help you more?",
+            "options": [
+              {
+                "label": "Fee Structure",
+                "value": {
+                  "input": {
+                    "text": "fee"
+                  }
+                }
+              },
+              {
+                "label": "Placement",
+                "value": {
+                  "input": {
+                    "text": "placement"
+                  }
+                }
+              }
+            ],
+            "preference": "button",
+            "description": "𝕊𝕦𝕘𝕘𝕖𝕤𝕥𝕚𝕠𝕟𝕤:",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_5_1535301941042",
+      "metadata": {},
+      "conditions": "@course:BBA && #placement || #fee || #eligibility",
+      "dialog_node": "node_14_1535399177962",
+      "previous_sibling": "node_13_1535399045809"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hey $person, BBA at INMANTEC is superior to BBA from just any institute. It makes more value addition to a student’s career and knowledge. The course is not only limited to the university curriculum, it includes a number of Top Up courses in different semesters to enhance students’ analytical skills. The entrepreneurship development cell provides support and guidance to the budding entrepreneurs. <a href=\"http://www.inmantec.edu/bba/\" target='_blank'>Read More</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Most Popular Student's Satisfaction Question",
+            "options": [
+              {
+                "label": "About the placement",
+                "value": {
+                  "input": {
+                    "text": "placement"
+                  }
+                }
+              },
+              {
+                "label": "Fee Structure of the course",
+                "value": {
+                  "input": {
+                    "text": "fee"
+                  }
+                }
+              },
+              {
+                "label": "eligibility of the course",
+                "value": {
+                  "input": {
+                    "text": "eligibility"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_5_1535301941042",
+      "metadata": {},
+      "conditions": "@course:BBA",
+      "dialog_node": "node_15_1535399202980",
+      "previous_sibling": "node_14_1535399177962"
+    },
+    {
+      "type": "standard",
+      "title": "BBA: Eligibility of the course",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "10+2 Pass from recognized Board with minimum 45% can apply for this course. <br>10+2 Pass from any discipline and from recognized Board with minimum 45% can also apply"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1535301941042",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1535301941042"
+      },
+      "conditions": "#eligibility",
+      "dialog_node": "node_3_1535791500957",
+      "previous_sibling": "node_12_1535399037436"
+    },
+    {
+      "type": "response_condition",
+      "output": {},
+      "parent": "node_5_1535301941042",
+      "metadata": {},
+      "dialog_node": "node_1_1536441819295",
+      "previous_sibling": "node_15_1535399202980"
+    },
+    {
+      "type": "frame",
+      "title": "BBA: Admission",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<b><u>Personal Details</u></b>"
+              },
+              {
+                "text": "Name: $person"
+              },
+              {
+                "text": "Date of Birth : $DOB"
+              },
+              {
+                "text": "Category:  $category"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "values": [
+              {
+                "text": "<b><u>Contact details</u></b>"
+              },
+              {
+                "text": "Phone No : $phone"
+              },
+              {
+                "text": "Email Id : $email <hr>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "values": [
+              {
+                "text": "<b>Your registraion form is Submited</b><br> $date <br> INMANTEC never share your personal details to other third party ☺ <hr>"
+              },
+              {
+                "text": "Please check your given details (if something is wrong in your details please contact to college department +91-8800521099)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_5_1535301941042",
+      "context": {
+        "date": "<? now() ?>"
+      },
+      "metadata": {
+        "fallback": "leave"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_26_1535795587934"
+      },
+      "conditions": "#admission",
+      "dialog_node": "node_4_1535794759975",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_2_1536220314441",
+      "digress_out_slots": "not_allowed"
+    },
+    {
+      "type": "standard",
+      "title": "Registration is submitted",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Dear $person,"
+              },
+              {
+                "text": "Thank you for showing your interest in our college. I am delighted to share information about our college. INMANTEC will offer you a best platform or a great oppurtunity to achieve your goal and your great success."
+              },
+              {
+                "text": "We understand the importance of finding the best college for you. Come discover why the INMANTEC is what you always hoped a college would be. Contact the Admissions Office at 000-000-0000, to make an appointment. I look forward to meeting you soon! With warmest regards"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "title": "OOPS! Sorry $person",
+            "options": [
+              {
+                "label": "pay now",
+                "value": {
+                  "input": {
+                    "text": "pay"
+                  }
+                }
+              }
+            ],
+            "description": "You have not deposited your fees right now. If you want register your admission now, Please click on the below option to process the payment",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_5_1535301941042",
+      "metadata": {},
+      "dialog_node": "node_26_1535795587934",
+      "previous_sibling": "node_4_1535794759975"
+    },
+    {
+      "type": "standard",
+      "title": "BBA: Fee structure",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<hr><b>BBA : Fee Structure</b><hr>BBA(3 Years Degree Course) with Laptop <br> Rs.56,000 per sem <br> Total - 1,68,000/- <hr>BBA(3 Years Degree Course) without Laptop <br>Rs.51,000/- per year <br>Total - 1,53,000<hr>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "values": [
+              {
+                "text": "BBA(3 Years Degree Course) without Laptop"
+              },
+              {
+                "text": "Rs.51,000/- per year"
+              },
+              {
+                "text": "Total - 1,53,000"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_5_1535301941042",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1535301941042"
+      },
+      "conditions": "#fee",
+      "dialog_node": "node_13_1535399045809"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Enter your caste category<br>(ex-General, OBC)"
+      },
+      "parent": "slot_14_1536058752317",
+      "event_name": "focus",
+      "dialog_node": "handler_16_1536058752317",
+      "previous_sibling": "handler_15_1536058752317"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_14_1536058752317",
+      "context": {
+        "category": "@category"
+      },
+      "conditions": "@category",
+      "event_name": "input",
+      "dialog_node": "handler_15_1536058752317"
+    },
+    {
+      "type": "slot",
+      "parent": "Anything else",
+      "dialog_node": "slot_7_1537696097609"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Please enter your name"
+      },
+      "parent": "slot_23_1535795430003",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_25_1535795430003",
+      "previous_sibling": "handler_24_1535795430003"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_23_1535795430003",
+      "context": {
+        "person": "@sys-person"
+      },
+      "conditions": "@sys-person",
+      "event_name": "input",
+      "dialog_node": "handler_24_1535795430003"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_41_1535796788048",
+      "context": {
+        "email": "@email"
+      },
+      "metadata": {},
+      "conditions": "@email",
+      "event_name": "input",
+      "dialog_node": "handler_42_1535796788048",
+      "previous_sibling": "handler_43_1535796788048"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please write your e-mail id in a right pattern (ex- amittomar@ inmantec.edu)"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_41_1535796788048",
+      "event_name": "nomatch",
+      "dialog_node": "handler_59_1535800470114",
+      "previous_sibling": "handler_42_1535796788048"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Please give your e-mail id (ex- abcd@ domain.com)"
+      },
+      "parent": "slot_41_1535796788048",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_43_1535796788048"
+    },
+    {
+      "type": "frame",
+      "title": "Remember",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ok i will remember that"
+              },
+              {
+                "text": "You said me to remember that<br> $remember"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "fallback": "leave"
+      },
+      "conditions": "#remember",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1536444795381",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_7_1535656807801",
+      "digress_out_slots": "not_allowed"
+    },
+    {
+      "type": "folder",
+      "title": "about colg, address nd contact",
+      "metadata": {},
+      "conditions": "#contact_Us || #inmantec || #college_Location || #employment_Inquiry",
+      "dialog_node": "node_2_1537641992856",
+      "previous_sibling": "node_1_1539799083762"
+    },
+    {
+      "type": "standard",
+      "title": "which course, plz select",
+      "output": {},
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#fee || #placement || #admission || #eligibility || #scholarship || #course",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_18_1535438103200",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_1_1535301380797"
+    },
+    {
+      "type": "folder",
+      "title": "Small Talk - Help, thnx, bye, greeting",
+      "metadata": {},
+      "dialog_node": "node_9_1536514523675",
+      "previous_sibling": "node_10_1537696129580"
+    },
+    {
+      "type": "frame",
+      "title": "make an appointment",
+      "output": {},
+      "metadata": {
+        "fallback": "leave",
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Appointments",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1539799083762",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_9_1536444795381",
+      "digress_out_slots": "allow_all"
+    },
+    {
+      "type": "standard",
+      "title": "Payment",
+      "output": {},
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#payment || @reply:pay_later",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_7_1535656807801",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_18_1535438103200"
+    },
+    {
+      "type": "frame",
+      "title": "Course Options",
+      "output": {
+        "generic": [
+          {
+            "time": 1200,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Please select one-<br> your interest course"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Graduation",
+            "options": [
+              {
+                "label": "BBA",
+                "value": {
+                  "input": {
+                    "text": "BBA"
+                  }
+                }
+              },
+              {
+                "label": "BCA",
+                "value": {
+                  "input": {
+                    "text": "BCA"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "title": "Post-Graduation",
+            "options": [
+              {
+                "label": "MBA",
+                "value": {
+                  "input": {
+                    "text": "MBA"
+                  }
+                }
+              },
+              {
+                "label": "MCA",
+                "value": {
+                  "input": {
+                    "text": "MCA"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          },
+          {
+            "time": 900,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "metadata": {
+        "fallback": "leave"
+      },
+      "digress_in": "does_not_return",
+      "dialog_node": "node_3_1535396429208",
+      "digress_out": "allow_all",
+      "previous_sibling": "Welcome",
+      "digress_out_slots": "not_allowed"
+    },
+    {
+      "type": "folder",
+      "title": "Feedback and compliments",
+      "metadata": {},
+      "conditions": "#feedback || #Positive_Feedback || @compliments || #Negative_Feedback",
+      "dialog_node": "node_10_1537696129580",
+      "previous_sibling": "node_2_1537641992856"
+    },
+    {
+      "type": "standard",
+      "title": "Course Data",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@course",
+      "dialog_node": "node_1_1535301380797",
+      "previous_sibling": "node_1_1536416557224"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else and Feedback",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am having trouble understanding you. Try asking your question in a different way."
+              },
+              {
+                "text": "I'm not sure about that. You can say things like \"about the fee structure\" or \"about the *course.\""
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Send Feedback",
+                "value": {
+                  "input": {
+                    "text": "send feedback"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "context": {
+        "notUnderstand": "<? input.text ?>"
+      },
+      "metadata": {
+        "fallback": "leave"
+      },
+      "conditions": "anything_else",
+      "digress_in": "returns",
+      "dialog_node": "Anything else",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_9_1536514523675"
+    },
+    {
+      "type": "folder",
+      "title": "Query for the course",
+      "metadata": {},
+      "conditions": "@course || #admission || #placement || #fee || #payment || #eligibility",
+      "digress_in": "returns",
+      "dialog_node": "node_1_1536416557224",
+      "previous_sibling": "node_3_1535396429208"
+    },
+    {
+      "type": "frame",
+      "title": "Welcome",
+      "output": {},
+      "metadata": {
+        "fallback": "leave",
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1535396429208"
+      },
+      "conditions": "welcome",
+      "digress_in": "does_not_return",
+      "dialog_node": "Welcome",
+      "digress_out": "allow_all",
+      "digress_out_slots": "not_allowed"
+    }
+  ],
+  "workspace_id": "57adc1a2-15d1-4183-b0b9-ee44d75efca0",
+  "counterexamples": [
+    {
+      "text": "1999 2 2"
+    },
+    {
+      "text": "about the campus"
+    },
+    {
+      "text": "AI"
+    },
+    {
+      "text": "bc"
+    },
+    {
+      "text": "hey"
+    },
+    {
+      "text": "ok"
+    },
+    {
+      "text": "this is hot day"
+    },
+    {
+      "text": "which course u have"
+    },
+    {
+      "text": "you are"
+    },
+    {
+      "text": "you are ajsfa"
+    },
+    {
+      "text": "you are hsdjf"
+    },
+    {
+      "text": "you are sjidfhs"
+    }
+  ],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    }
+  },
+  "learning_opt_out": false,
+  "status": "Available"
+}
